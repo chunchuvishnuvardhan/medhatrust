@@ -1,0 +1,280 @@
+*{
+ padding:0px;
+ margin:0px;
+ font-family:sans-serif;
+}
+#menu-bar
+{
+  background:linear-gradient(to right,#9c27b0,#8ecdff);
+}
+.nav-link{
+       font-size:16px;
+       color:#fff!important;
+       margin:5px;
+}
+.navbar-nav{
+    text-align:right;
+}
+.menu-bar .navbar-toggler
+{
+ padding-right:0;
+ outline:none;
+ border:none;
+}
+.main{
+    
+    width:100%;
+    height:100vh;
+    position:relative;
+    overflow:hidden;
+    background:whitesmoke;
+}
+
+#header
+{
+    
+    background-image:repeating-linear-gradient(to right,#6db9ef,#7ce08a),url("C:\Users\dell\Desktop\index.html\website\a1.jpg");
+}
+
+.banner{
+    height:80vh;
+    background-image:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url(background.jpg);
+    background-size:cover;
+    background-position:center;
+    color:#fff;
+    
+}
+.banner h1
+{
+ padding-top:40px;
+ font-size:60px;
+ letter-spacing:6px;
+ font-weight:900;
+ text-shadow:5px 5px 10px 10px;
+ font-style:bold;
+}
+.banner h2{
+    font-size:40px;
+    letter-spacing:3px;
+    font-weight:900px;
+    text-shadow:5px;
+    font-style:bold;
+    }
+.vishnu h1
+{
+  padding-top:50px;
+  font-size:40px;
+  letter-spacing:3px;
+   font-weight:500px;
+    font-style:bold;
+    text-align:center;
+}
+.vishnu p
+{
+ font-size:20px;
+    font-weight:400px;
+  letter-spacing:none;
+    font-style:bold;
+    text-align:center;
+    padding-left:100px;
+    padding-left:100px;
+}
+.vishnu
+{
+     box-shadow:2px 2px 2px 2px;
+    padding:5px;
+    background:#fff;
+    border-color:cornsilk;
+    height:350px;
+    width:auto;
+    border:2px white;
+    margin:2px;
+    
+}
+.siddu1{
+    padding-left:100px;
+}
+.siddu2{
+    padding-left: 30px;
+}
+.siddu3{
+    padding-left: 30px;
+}
+.type1
+{
+  box-shadow:2px 2px 2px 2px;
+    padding:5px;
+    background:#fff;
+    border-color:cornsilk;
+    height:450px;
+    width:350px;
+    border:2px white;
+    margin:2px;
+    
+}
+.type1 img
+{
+ padding-top:20px;
+ height:170px;
+ width:340px;
+}
+.type1 h1
+{
+   padding-top:30px;
+  font-size:25px;
+  letter-spacing:1.5px;
+   font-weight:100px;
+    font-style:bold;
+    text-align:left;
+    padding-left:10px;
+
+}
+.type1 p
+{
+   font-size:15px;
+    font-weight:70px;
+  letter-spacing:none;
+    font-style:bold;
+    text-align:left; 
+    text-align:left;
+    padding-left:15px;
+    padding-top:10px;
+}
+
+.box2
+{
+  box-shadow:2px 2px 2px 2px;
+    padding:5px;
+    background:#fff;
+    border-color:cornsilk;
+    height:450px;
+    width:350px;
+    border:2px white;
+    margin:2px;
+    
+}
+.box2 img
+{
+ padding-top:20px;
+ height:170px;
+ width:340px;
+}
+
+.box2 h1
+{
+   padding-top:30px;
+  font-size:25px;
+  letter-spacing:1.5px;
+   font-weight:100px;
+    font-style:bold;
+    text-align:left;
+    padding-left:10px;
+
+}
+.box2 p
+{
+   font-size:15px;
+    font-weight:70px;
+  letter-spacing:none;
+    font-style:bold;
+    text-align:left; 
+    text-align:left;
+    padding-left:15px;
+    padding-top:10px;
+}
+.box3
+{
+  box-shadow:2px 2px 2px 2px;
+    padding:5px;
+    background:#fff;
+    border-color:cornsilk;
+    height:450px;
+    width:370px;
+    border:2px white;
+    margin:2px;
+    
+}
+.box3 img
+{
+ padding-top:20px;
+ height:170px;
+ width:340px;
+}
+
+.box3 h1
+{
+   padding-top:30px;
+  font-size:25px;
+  letter-spacing:1.5px;
+   font-weight:100px;
+    font-style:bold;
+    text-align:left;
+    padding-left:10px;
+
+}
+.box3 p
+{
+   font-size:15px;
+    font-weight:70px;
+  letter-spacing:none;
+    font-style:bold;
+    text-align:left; 
+    text-align:left;
+    padding-left:15px;
+    padding-top:10px;
+}
+
+table,th,td{
+    border:10px solid #fff;
+}
+
+ 
+.siddu{
+    padding-left:30px;
+} 
+#footer{
+    background-color:silver;
+    padding-top:30px;
+    color:wheat!important;
+    
+}
+    #footer p
+{
+    margin-top:auto;
+    color:black;
+    text-align:center;
+    padding:50px;
+    padding-top:5px;
+    font-family: sans-serif;
+    font-weight: 400px;
+    font-size:20px;
+    
+}
+#footer h1{
+font-family:sans-serif;
+font-weight:900px;
+ letter-spacing:5px;
+  font-size:40px;
+    padding-top:10px;
+    color:black;
+}
+ .footer-image{
+     padding-left:20px;
+     padding-right:800px;
+     padding-top:0px;
+     padding-bottom:5px;
+}
+hr
+{
+background-color:silver!important;
+}
+ table,th,td{
+    padding:30px;
+     padding-top:30px;
+    border:50px;
+    text-decoration-color: black;
+     font-family: sans-serif;
+     font-weight: 400px;
+     font-size:20px;
+    
+}
